@@ -1,2 +1,3 @@
-CEWA599
-Used for Snow Modeling CUAHSI module 2021
+# cuahsi_vu
+
+SUMMA and pysumma setups and notebook for the CUAHSI Virtual University snow modeling course
